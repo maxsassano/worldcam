@@ -1,68 +1,160 @@
-# Prerequisites
-*.d
+## ============================================================
+## .NET / MAUI
+## ============================================================
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
 
-# Linker files
-*.ilk
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
 
-# Debugger Files
-*.pdb
+# Rider
+.idea/
+*.sln.iml
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
+## ============================================================
+## MAUI specific
+## ============================================================
 
-# Fortran module files
-*.mod
-*.smod
+# MAUI generated files
+**/Platforms/**/Resources/**/*.g.cs
+*.g.cs
+*.g.i.cs
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.jar
+*.keystore
+!debug.keystore
+*.jks
 
-# Executables
-*.exe
-*.out
-*.app
+# iOS / MacCatalyst
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.mobileprovision
+*.p12
+*.cer
 
-# Build directories
-build/
-Build/
-build-*/
+# Windows
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
 
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
+## ============================================================
+## Segreti / configurazioni locali
+## ============================================================
 
-# Temporary files
+# Keystore e password di firma (NON caricare MAI su GitHub)
+*.keystore
+*.jks
+signing.properties
+secrets.json
+*.pfx
+
+# File di configurazione locale
+launchSettings.json
+appsettings.Development.json
+appsettings.Local.json
+
+# File generati da Visual Studio
 *.tmp
-*.log
 *.bak
-*.swp
+*.cache
+*.pidb
+*.svclog
 
-# vcpkg
-vcpkg_installed/
+## ============================================================
+## Sistema operativo
+## ============================================================
 
-# debug information files
-*.dwo
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
 
-# test output & cache
-Testing/
-.cache/
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.directory
+.Trash-*
+
+## ============================================================
+## IDE / Editor
+## ============================================================
+
+# IntelliJ / Android Studio
+*.iml
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
+
+## ============================================================
+## Vari
+## ============================================================
+
+# Pacchetti NuGet
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
+PublishOutput/
+*.publishsettings
+
+# File temporanei di build
+*.binlog
+*.buildlog
+
+# Cartella di backup locale (quella che hai tu)
+Worldcam.csproj.Backup.tmp
+*.Backup.tmp
+
+# Cartelle locali del progetto
+Screens/local/
