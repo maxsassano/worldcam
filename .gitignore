@@ -1,160 +1,59 @@
 ## ============================================================
-## .NET / MAUI
+## Repo WorldCam — solo README, LICENSE, Screens
 ## ============================================================
 
-# Build results
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
-
-# Visual Studio cache/options
-.vs/
-.vscode/
+# Ignora tutto il codice sorgente (non serve qui)
+*.cs
+*.xaml
+*.csproj
+*.sln
+*.slnx
 *.user
 *.suo
-*.userosscache
-*.sln.docstates
-*.userprefs
 
-# ReSharper
-_ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
-
-# Rider
+# Cartelle di build
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
 .idea/
-*.sln.iml
-
-## ============================================================
-## MAUI specific
-## ============================================================
-
-# MAUI generated files
-**/Platforms/**/Resources/**/*.g.cs
-*.g.cs
-*.g.i.cs
-
-# Android
-*.apk
-*.aab
-*.ap_
-*.dex
-*.class
-*.jar
-*.keystore
-!debug.keystore
-*.jks
-
-# iOS / MacCatalyst
-*.ipa
-*.dSYM.zip
-*.dSYM
-*.mobileprovision
-*.p12
-*.cer
-
-# Windows
-*.appx
-*.appxbundle
-*.appxupload
-*.msix
-*.msixbundle
-
-## ============================================================
-## Segreti / configurazioni locali
-## ============================================================
-
-# Keystore e password di firma (NON caricare MAI su GitHub)
-*.keystore
-*.jks
-signing.properties
-secrets.json
-*.pfx
-
-# File di configurazione locale
-launchSettings.json
-appsettings.Development.json
-appsettings.Local.json
-
-# File generati da Visual Studio
-*.tmp
-*.bak
-*.cache
-*.pidb
-*.svclog
-
-## ============================================================
-## Sistema operativo
-## ============================================================
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-*.lnk
-
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-._*
-.Spotlight-V100
-.Trashes
-
-# Linux
-*~
-.directory
-.Trash-*
-
-## ============================================================
-## IDE / Editor
-## ============================================================
-
-# IntelliJ / Android Studio
-*.iml
-.gradle/
-local.properties
-captures/
-.externalNativeBuild/
-.cxx/
-
-# Visual Studio Code
-.vscode/*
-!.vscode/extensions.json
-!.vscode/launch.json
-!.vscode/tasks.json
-!.vscode/settings.json
-
-## ============================================================
-## Vari
-## ============================================================
 
 # Pacchetti NuGet
 *.nupkg
 *.snupkg
 packages/
-!packages/build/
 
-# Test results
-[Tt]est[Rr]esult*/
-*.trx
-*.coverage
-*.coveragexml
+# Keystore (mai caricare)
+*.keystore
+*.jks
+*.pfx
+signing.properties
+secrets.json
 
-# Publish output
-publish/
-PublishOutput/
-*.publishsettings
+# File temporanei
+*.tmp
+*.bak
+*.cache
+*.log
 
-# File temporanei di build
-*.binlog
-*.buildlog
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+._*
+.Trash-*
 
-# Cartella di backup locale (quella che hai tu)
-Worldcam.csproj.Backup.tmp
+# Android build
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# MAUI generati
+*.g.cs
+*.g.i.cs
+
+# Backup locali
 *.Backup.tmp
-
-# Cartelle locali del progetto
-Screens/local/
