@@ -26,13 +26,19 @@ App Android per esplorare **webcam live da tutto il mondo**.
 
 | Home | Paesi | Webcam |
 |:---:|:---:|:---:|
-| ![Home](Screens/home.png) | ![Paesi](Screens/countries.png) | ![Webcam](Screens/channels.png) |
+| ![Home](Screens/home.png) | ![Paesi](Screens/countries.png) | ![Webcam](Screens/locations.png) |
 
-| Player | Preferiti | Impostazioni |
+| Categorie | Preferiti | Impostazioni |
+| ![Categorie](Screens/categorie.png) | ![Preferiti](Screens/preferiti.png) | ![Settings](Screens/impostazioni.png) |
+
+| Ricerca | Player | Player |
 |:---:|:---:|:---:|
-| ![Player](Screens/player.png) | ![Preferiti](Screens/favorites.png) | ![Settings](Screens/settings.png) |
+| ![Ricerca](Screens/ricerca.png) | ![Player](Screens/player1.png) | ![Player](Screens/player2.png) |
 
-> **Nota:** le immagini sono di esempio. Sostituisci i file nella cartella `Screens/` con i tuoi screenshot reali.
+| Info |
+|:---:|:---:|:---:|
+| ![Info](Screens/info.png) |
+
 
 ### 📥 Download
 
