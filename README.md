@@ -25,25 +25,25 @@ App Android per esplorare **webcam live da tutto il mondo**.
 ### 📸 Screenshot
 
 <p align="center">
-  <img src="Screens/home.png" width="220"/>
-  <img src="Screens/countries.png" width="220"/>
-  <img src="Screens/locations.png" width="220"/>
+  <img src="Screen/home.png" width="220"/>
+  <img src="Screen/countries.png" width="220"/>
+  <img src="Screen/locations.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="Screens/categorie.png" width="220"/>
-  <img src="Screens/preferiti.png" width="220"/>
-  <img src="Screens/impostazioni.png" width="220"/>
+  <img src="Screen/categorie.png" width="220"/>
+  <img src="Screen/preferiti.png" width="220"/>
+  <img src="Screen/impostazioni.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="Screens/ricerca.png" width="220"/>
-  <img src="Screens/player1.png" width="220"/>
-  <img src="Screens/player2.png" width="220"/>
+  <img src="Screen/ricerca.png" width="220"/>
+  <img src="Screen/player1.png" width="220"/>
+  <img src="Screen/player2.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="Screens/info.png" width="220"/>
+  <img src="Screen/info.png" width="220"/>
 </p>
 
 
