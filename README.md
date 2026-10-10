@@ -24,20 +24,27 @@ App Android per esplorare **webcam live da tutto il mondo**.
 
 ### 📸 Screenshot
 
-| Home | Paesi | Webcam |
-|:---:|:---:|:---:|
-| ![Home](Screen/home.png) | ![Paesi](Screen/countries.png) | ![Webcam](Screen/locations.png) |
+<p align="center">
+  <img src="Screens/home.png" width="220"/>
+  <img src="Screens/countries.png" width="220"/>
+  <img src="Screens/locations.png" width="220"/>
+</p>
 
-| Categorie | Preferiti | Impostazioni |
-| ![Categorie](Screen/categorie.png) | ![Preferiti](Screen/preferiti.png) | ![Settings](Screen/impostazioni.png) |
+<p align="center">
+  <img src="Screens/categorie.png" width="220"/>
+  <img src="Screens/preferiti.png" width="220"/>
+  <img src="Screens/impostazioni.png" width="220"/>
+</p>
 
-| Ricerca | Player | Player |
-|:---:|:---:|:---:|
-| ![Ricerca](Screen/ricerca.png) | ![Player](Screen/player1.png) | ![Player](Screen/player2.png) |
+<p align="center">
+  <img src="Screens/ricerca.png" width="220"/>
+  <img src="Screens/player1.png" width="220"/>
+  <img src="Screens/player2.png" width="220"/>
+</p>
 
-| Info |
-|:---:|:---:|:---:|
-| ![Info](Screen/info.png) |
+<p align="center">
+  <img src="Screens/info.png" width="220"/>
+</p>
 
 
 ### 📥 Download
