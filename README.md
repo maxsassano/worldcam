@@ -24,27 +24,25 @@ App Android per esplorare **webcam live da tutto il mondo**.
 
 ### 📸 Screenshot
 
-<p align="center">
-  <img src="Screen/home.png" width="220"/>
-  <img src="Screen/countries.png" width="220"/>
-  <img src="Screen/locations.png" width="220"/>
-</p>
+| Home | Paesi | Locations |
+|:---:|:---:|:---:|
+| <img src="Screen/home.png" height="380"/> | <img src="Screen/countries.png" height="380"/> | <img src="Screen/locations.png" height="380"/> |
 
-<p align="center">
-  <img src="Screen/categorie.png" width="220"/>
-  <img src="Screen/preferiti.png" width="220"/>
-  <img src="Screen/impostazioni.png" width="220"/>
-</p>
+| Categorie | Preferiti | Impostazioni |
+|:---:|:---:|:---:|
+| <img src="Screen/categorie.png" height="380"/> | <img src="Screen/preferiti.png" height="380"/> | <img src="Screen/impostazioni.png" height="380"/> |
 
-<p align="center">
-  <img src="Screen/ricerca.png" width="220"/>
-  <img src="Screen/player1.png" width="220"/>
-  <img src="Screen/player2.png" width="220"/>
-</p>
+| Ricerca | Player |
+|:---:|:---:|
+| <img src="Screen/ricerca.png" height="380"/> | <img src="Screen/player1.png" height="380"/> |
 
-<p align="center">
-  <img src="Screen/info.png" width="220"/>
-</p>
+| Player landscape |
+|:---:|
+| <img src="Screen/player2.png" height="380"/> |
+
+| Info |
+|:---:|
+| <img src="Screen/info.png" height="380"/> |
 
 
 ### 📥 Download
