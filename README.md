@@ -26,7 +26,7 @@ App Android per esplorare **webcam live da tutto il mondo**.
 
 | Home | Paesi | Locations |
 |:---:|:---:|:---:|
-| <img src="Screen/home.png" height="380"/> | <img src="Screen/countries.png" height="380"/> | <img src="Screen/locations.png" height="380"/> |
+| <img src="Screen/home1.png" height="380"/> | <img src="Screen/countries.png" height="380"/> | <img src="Screen/locations.png" height="380"/> |
 
 | Categorie | Preferiti | Impostazioni |
 |:---:|:---:|:---:|
