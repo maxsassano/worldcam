@@ -96,11 +96,12 @@ All'avvio vedrai la **Home** con i pulsanti principali: *Paesi, Categorie, Prefe
 Questo progetto è distribuito con licenza **MIT**.  
 Vedi il file [LICENSE](LICENSE) per i dettagli.
 
-### ❤️ Supporta lo sviluppo
+### ☕ Sostieni il progetto
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-orange?style=for-the-badge&logo=paypal)](https://paypal.me/veruscatanese)
+Se l'app ti è utile, puoi offrirmi un caffè:
 
-👉 **[Offrimi un caffè](https://paypal.me/veruscatanese)**
+[![PayPal](https://img.shields.io/badge/PayPal-Offrimi%20un%20caffè-0070BA?logo=paypal)](https://paypal.me/veruscatanese/3EUR)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Offrimi%20un%20caffè-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/veruscatanese)
 
 ### 👤 Autore
 
