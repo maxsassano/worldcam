@@ -8,12 +8,15 @@
 
 App Android per esplorare **webcam live da tutto il mondo**.  
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.worldcam.app)
+
 ### ✨ Funzionalità
 
 - 🌍 **Esplora per Paese** — oltre 80 paesi con bandiere ufficiali
 - 🗂️ **Esplora per Categoria** — spiagge, città, montagne, porti, vulcani, animali e molte altre
 - 🔥 **Top Webcam** — le webcam più popolari del momento
 - 📍 **Navigazione gerarchica** — Paese → Regione/Città → Webcam
+- 🖼️ **Anteprime (Thumbnail)** — immagini in tempo reale direttamente nella lista
 - ▶️ **Player HLS integrato** — riproduzione fluida delle webcam live
 - 📹 **Apertura YouTube** — se una webcam è su YouTube, si apre l'app YouTube di Android
 - ⭐ **Preferiti** — salva le tue webcam preferite sul telefono
@@ -44,7 +47,6 @@ App Android per esplorare **webcam live da tutto il mondo**.
 |:---:|
 | <img src="Screen/info.png" height="380"/> |
 
-
 ### 📥 Download
 
 **Requisiti:**
@@ -52,9 +54,12 @@ App Android per esplorare **webcam live da tutto il mondo**.
 - Connessione Internet
 
 **Installazione:**
-1. Scarica l'ultima `WorldCam.apk` dalla sezione [Releases](https://github.com/maxsassano/worldcam/releases)
-2. Sul telefono: **Impostazioni → Sicurezza → Origini sconosciute** (attiva)
-3. Apri l'APK → **Installa**
+1. **Da Google Play:** Cerca **WorldCam** sul Play Store o clicca il badge qui sopra per scaricare e installare automaticamente.
+2. **Da GitHub:** Scarica l'ultima `WorldCam.apk` dalla sezione [Releases](https://github.com/maxsassano/worldcam/releases), abilita le *Origini sconosciute* e installa.
+
+**Aggiornamento su Google Play:**
+- **Automatico:** Se hai attivato gli aggiornamenti automatici sul Play Store, l'app si aggiornerà da sola in background.
+- **Manuale:** Apri il Google Play Store → tocca la tua foto profilo → *Gestisci app e dispositivo* → *Aggiornamenti disponibili* → tocca *Aggiorna* accanto a WorldCam.
 
 ### 🕹️ Come si usa
 
@@ -115,12 +120,15 @@ Se l'app ti è utile, puoi offrirmi un caffè:
 
 Android app to explore **live webcams from around the world**.  
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.worldcam.app)
+
 ### ✨ Features
 
 - 🌍 **Browse by Country** — over 80 countries with official flags
 - 🗂️ **Browse by Category** — beaches, cities, mountains, ports, volcanoes, animals and more
 - 🔥 **Top Webcams** — the most popular webcams right now
 - 📍 **Hierarchical navigation** — Country → Region/City → Webcam
+- 🖼️ **Thumbnails** — live preview images directly in the list
 - ▶️ **Built-in HLS player** — smooth playback of live webcams
 - 📹 **YouTube opening** — if a webcam is on YouTube, the Android YouTube app opens
 - ⭐ **Favorites** — save your favorite webcams on your phone
@@ -136,9 +144,12 @@ Android app to explore **live webcams from around the world**.
 - Internet connection
 
 **Installation:**
-1. Download the latest `WorldCam.apk` from the [Releases](https://github.com/maxsassano/worldcam/releases) page
-2. On your phone: **Settings → Security → Unknown sources** (enable)
-3. Open the APK → **Install**
+1. **From Google Play:** Search for **WorldCam** on the Play Store or click the badge above to download and install automatically.
+2. **From GitHub:** Download the latest `WorldCam.apk` from the [Releases](https://github.com/maxsassano/worldcam/releases) page, enable *Unknown sources*, and install.
+
+**Updating via Google Play:**
+- **Automatic:** If auto-update is enabled on the Play Store, the app will update itself in the background.
+- **Manual:** Open Google Play Store → tap your profile picture → *Manage apps & device* → *Updates available* → tap *Update* next to WorldCam.
 
 ### 🕹️ How to use
 
@@ -167,7 +178,7 @@ On startup you'll see the **Home** with the main buttons: *Countries, Categories
 ### 🛠️ Tech stack
 
 | Component | Technology |
-|-----------|-----------|
+|------------|-----------|
 | Framework | .NET MAUI 10 |
 | Language | C# 13 |
 | UI | XAML |
@@ -194,4 +205,4 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-*Ultimo aggiornamento / Last update: 2025*
+*Ultimo aggiornamento / Last update: Novembre 2026*
