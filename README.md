@@ -13,17 +13,19 @@ App Android per esplorare **webcam live da tutto il mondo**.
 ### ✨ Funzionalità
 
 - 🌍 **Esplora per Paese** — oltre 80 paesi con bandiere ufficiali
-- 🗂️ **Esplora per Categoria** — spiagge, città, montagne, porti, vulcani, animali e molte altre
+- 🌐 **Esplora per Continente** — naviga rapidamente tra i paesi divisi per continente
+- 🗂️ **Esplora per Categoria** — spiagge, città, montagne, porti, vulcani, animali e molte altre (con emoji dedicate)
 - 🔥 **Top Webcam** — le webcam più popolari del momento
-- 📍 **Navigazione gerarchica** — Paese → Regione/Città → Webcam
+- 📍 **Navigazione gerarchica** — Continente → Paese → Regione/Città → Webcam
 - 🖼️ **Anteprime (Thumbnail)** — immagini in tempo reale direttamente nella lista
 - ▶️ **Player HLS integrato** — riproduzione fluida delle webcam live
 - 📹 **Apertura YouTube** — se una webcam è su YouTube, si apre l'app YouTube di Android
 - ⭐ **Preferiti** — salva le tue webcam preferite sul telefono
-- 🔍 **Ricerca live** — cerca tra paesi e webcam mentre digiti
+- 🔍 **Ricerca Avanzata** — cerca in tempo reale tra continenti, paesi, categorie e webcam
 - 🌐 **Multi-lingua** — Italiano, Inglese, Francese, Spagnolo, Tedesco
 - 🌙 **Tema scuro** — interfaccia ottimizzata per l'uso serale
-- 📱 **Interfaccia semplice** — pulsanti grandi, ideale per tutti
+- 📱 **Interfaccia Moderna** — layout a griglia con grandi icone, ideale per tutti
+- ☕ **Sostieni lo Sviluppo** — un piccolo popup non invasivo per supportare il progetto (una volta al giorno)
 
 ### 📸 Screenshot
 
@@ -64,13 +66,14 @@ App Android per esplorare **webcam live da tutto il mondo**.
 ### 🕹️ Come si usa
 
 **Prima apertura**  
-All'avvio vedrai la **Home** con i pulsanti principali: *Paesi, Categorie, Preferiti, Cerca, Top Webcam, Info, Impostazioni*.
+All'avvio vedrai la **Home** con un comodo layout a griglia: *Continenti, Paesi, Categorie, Top Webcam, Preferiti, Cerca, Info, Impostazioni*.
 
 **Navigazione**  
-1. **Paesi** → seleziona un paese (es. Italia)  
-2. **Regioni/Città** → seleziona una regione (es. Lombardia)  
-3. **Webcam** → tocca una webcam per aprire il player  
-4. **Player** → la webcam live parte automaticamente  
+1. **Continenti** → seleziona un continente (es. Europa) → seleziona un paese (es. Italia)  
+2. **Paesi** → oppure naviga direttamente per paese (es. Italia)  
+3. **Regioni/Città** → seleziona una regione (es. Lombardia)  
+4. **Webcam** → tocca una webcam per aprire il player  
+5. **Player** → la webcam live parte automaticamente  
 
 **Preferiti**  
 - Tocca la **☆** per aggiungere una webcam ai preferiti  
@@ -78,7 +81,7 @@ All'avvio vedrai la **Home** con i pulsanti principali: *Paesi, Categorie, Prefe
 - Tocca **✖** per rimuoverla  
 
 **Ricerca**  
-- Tocca **Cerca** e digita il nome di un paese o di una webcam  
+- Tocca **Cerca** e digita il nome di un continente, paese, categoria o webcam  
 - I risultati appaiono in tempo reale  
 
 **Cambio lingua**  
@@ -125,17 +128,19 @@ Android app to explore **live webcams from around the world**.
 ### ✨ Features
 
 - 🌍 **Browse by Country** — over 80 countries with official flags
-- 🗂️ **Browse by Category** — beaches, cities, mountains, ports, volcanoes, animals and more
+- 🌐 **Browse by Continent** — quickly navigate countries grouped by continent
+- 🗂️ **Browse by Category** — beaches, cities, mountains, ports, volcanoes, animals and more (with dedicated emojis)
 - 🔥 **Top Webcams** — the most popular webcams right now
-- 📍 **Hierarchical navigation** — Country → Region/City → Webcam
+- 📍 **Hierarchical navigation** — Continent → Country → Region/City → Webcam
 - 🖼️ **Thumbnails** — live preview images directly in the list
 - ▶️ **Built-in HLS player** — smooth playback of live webcams
 - 📹 **YouTube opening** — if a webcam is on YouTube, the Android YouTube app opens
 - ⭐ **Favorites** — save your favorite webcams on your phone
-- 🔍 **Live search** — search countries and webcams as you type
+- 🔍 **Advanced Search** — search continents, countries, categories, and webcams in real-time
 - 🌐 **Multi-language** — English, Italian, French, Spanish, German
 - 🌙 **Dark theme** — optimized for evening use
-- 📱 **Simple interface** — large buttons, suitable for everyone
+- 📱 **Modern Interface** — grid layout with large icons, suitable for everyone
+- ☕ **Support Development** — a small, non-intrusive popup to support the project (once a day)
 
 ### 📥 Download
 
@@ -154,13 +159,14 @@ Android app to explore **live webcams from around the world**.
 ### 🕹️ How to use
 
 **First launch**  
-On startup you'll see the **Home** with the main buttons: *Countries, Categories, Favorites, Search, Top Webcams, Info, Settings*.
+On startup you'll see the **Home** with a convenient grid layout: *Continents, Countries, Categories, Top Webcams, Favorites, Search, Info, Settings*.
 
 **Navigation**  
-1. **Countries** → pick a country (e.g. Italy)  
-2. **Regions/Cities** → pick a region (e.g. Lombardy)  
-3. **Webcams** → tap a webcam to open the player  
-4. **Player** → the live webcam starts automatically  
+1. **Continents** → pick a continent (e.g. Europe) → pick a country (e.g. Italy)  
+2. **Countries** → or navigate directly by country (e.g. Italy)  
+3. **Regions/Cities** → pick a region (e.g. Lombardy)  
+4. **Webcams** → tap a webcam to open the player  
+5. **Player** → the live webcam starts automatically  
 
 **Favorites**  
 - Tap **☆** to add a webcam to your favorites  
@@ -168,7 +174,7 @@ On startup you'll see the **Home** with the main buttons: *Countries, Categories
 - Tap **✖** to remove it  
 
 **Search**  
-- Tap **Search** and type a country or webcam name  
+- Tap **Search** and type a continent, country, category, or webcam name  
 - Results appear in real time  
 
 **Language switch**  
