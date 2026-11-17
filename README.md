@@ -6,7 +6,7 @@
 
 ## 🇮🇹 Italiano
 
-App Android per esplorare **webcam live da tutto il mondo**.  
+App Android per esplorare **webcam live da tutto il mondo**.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.worldcam.app)
 
@@ -16,6 +16,7 @@ App Android per esplorare **webcam live da tutto il mondo**.
 - 🌐 **Esplora per Continente** — naviga rapidamente tra i paesi divisi per continente
 - 🗂️ **Esplora per Categoria** — spiagge, città, montagne, porti, vulcani, animali e molte altre (con emoji dedicate)
 - 🔥 **Top Webcam** — le webcam più popolari del momento
+- 🗺️ **Mappa Windy** — esplora una mappa interattiva con le webcam disponibili in tutto il mondo, visualizzando le località direttamente sulla cartografia Windy
 - 📍 **Navigazione gerarchica** — Continente → Paese → Regione/Città → Webcam
 - 🖼️ **Anteprime (Thumbnail)** — immagini in tempo reale direttamente nella lista
 - ▶️ **Player HLS integrato** — riproduzione fluida delle webcam live
@@ -65,28 +66,35 @@ App Android per esplorare **webcam live da tutto il mondo**.
 
 ### 🕹️ Come si usa
 
-**Prima apertura**  
-All'avvio vedrai la **Home** con un comodo layout a griglia: *Continenti, Paesi, Categorie, Top Webcam, Preferiti, Cerca, Info, Impostazioni*.
+**Prima apertura**
 
-**Navigazione**  
-1. **Continenti** → seleziona un continente (es. Europa) → seleziona un paese (es. Italia)  
-2. **Paesi** → oppure naviga direttamente per paese (es. Italia)  
-3. **Regioni/Città** → seleziona una regione (es. Lombardia)  
-4. **Webcam** → tocca una webcam per aprire il player  
-5. **Player** → la webcam live parte automaticamente  
+All'avvio vedrai la **Home** con un comodo layout a griglia: *Continenti, Paesi, Categorie, Top Webcam, Mappa Windy, Preferiti, Cerca, Info, Impostazioni*.
 
-**Preferiti**  
-- Tocca la **☆** per aggiungere una webcam ai preferiti  
-- La stella diventa **★** e la webcam compare in *Preferiti*  
-- Tocca **✖** per rimuoverla  
+**Navigazione**
+1. **Continenti** → seleziona un continente (es. Europa) → seleziona un paese (es. Italia)
+2. **Paesi** → oppure naviga direttamente per paese (es. Italia)
+3. **Regioni/Città** → seleziona una regione (es. Lombardia)
+4. **Webcam** → tocca una webcam per aprire il player
+5. **Player** → la webcam live parte automaticamente
 
-**Ricerca**  
-- Tocca **Cerca** e digita il nome di un continente, paese, categoria o webcam  
-- I risultati appaiono in tempo reale  
+**Mappa Windy**
+- Apri la sezione **Mappa Windy** dalla Home.
+- Esplora la cartografia interattiva.
+- Individua le webcam disponibili nelle diverse località.
+- Seleziona una webcam per visualizzare le informazioni e accedere alla relativa visualizzazione.
 
-**Cambio lingua**  
-- **Impostazioni** → seleziona la lingua → **Salva**  
-- L'interfaccia cambia immediatamente, senza riavvio  
+**Preferiti**
+- Tocca la **☆** per aggiungere una webcam ai preferiti.
+- La stella diventa **★** e la webcam compare in *Preferiti*.
+- Tocca **✖** per rimuoverla.
+
+**Ricerca**
+- Tocca **Cerca** e digita il nome di un continente, paese, categoria o webcam.
+- I risultati appaiono in tempo reale.
+
+**Cambio lingua**
+- **Impostazioni** → seleziona la lingua → **Salva**.
+- L'interfaccia cambia immediatamente, senza riavvio.
 
 ### 🛠️ Tecnologie
 
@@ -96,6 +104,7 @@ All'avvio vedrai la **Home** con un comodo layout a griglia: *Continenti, Paesi,
 | Linguaggio | C# 13 |
 | UI | XAML |
 | Player HLS | hls.js (via WebView) |
+| Mappa interattiva | Windy |
 | Bandiere | flagcdn.com |
 | Dati webcam | SkylineWebcams.com |
 
@@ -109,6 +118,7 @@ Vedi il file [LICENSE](LICENSE) per i dettagli.
 Se l'app ti è utile, puoi offrirmi un caffè:
 
 [![PayPal](https://img.shields.io/badge/PayPal-Offrimi%20un%20caffè-0070BA?logo=paypal)](https://paypal.me/veruscatanese/3EUR)
+
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Offrimi%20un%20caffè-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/veruscatanese)
 
 ### 👤 Autore
@@ -121,7 +131,7 @@ Se l'app ti è utile, puoi offrirmi un caffè:
 
 ## 🇬🇧 English
 
-Android app to explore **live webcams from around the world**.  
+Android app to explore **live webcams from around the world**.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.worldcam.app)
 
@@ -131,6 +141,7 @@ Android app to explore **live webcams from around the world**.
 - 🌐 **Browse by Continent** — quickly navigate countries grouped by continent
 - 🗂️ **Browse by Category** — beaches, cities, mountains, ports, volcanoes, animals and more (with dedicated emojis)
 - 🔥 **Top Webcams** — the most popular webcams right now
+- 🗺️ **Windy Map** — explore an interactive map featuring webcams from around the world, with locations displayed directly on Windy's map
 - 📍 **Hierarchical navigation** — Continent → Country → Region/City → Webcam
 - 🖼️ **Thumbnails** — live preview images directly in the list
 - ▶️ **Built-in HLS player** — smooth playback of live webcams
@@ -158,28 +169,35 @@ Android app to explore **live webcams from around the world**.
 
 ### 🕹️ How to use
 
-**First launch**  
-On startup you'll see the **Home** with a convenient grid layout: *Continents, Countries, Categories, Top Webcams, Favorites, Search, Info, Settings*.
+**First launch**
 
-**Navigation**  
-1. **Continents** → pick a continent (e.g. Europe) → pick a country (e.g. Italy)  
-2. **Countries** → or navigate directly by country (e.g. Italy)  
-3. **Regions/Cities** → pick a region (e.g. Lombardy)  
-4. **Webcams** → tap a webcam to open the player  
-5. **Player** → the live webcam starts automatically  
+On startup you'll see the **Home** with a convenient grid layout: *Continents, Countries, Categories, Top Webcams, Windy Map, Favorites, Search, Info, Settings*.
 
-**Favorites**  
-- Tap **☆** to add a webcam to your favorites  
-- The star turns into **★** and the webcam appears in *Favorites*  
-- Tap **✖** to remove it  
+**Navigation**
+1. **Continents** → pick a continent (e.g. Europe) → pick a country (e.g. Italy)
+2. **Countries** → or navigate directly by country (e.g. Italy)
+3. **Regions/Cities** → pick a region (e.g. Lombardy)
+4. **Webcams** → tap a webcam to open the player
+5. **Player** → the live webcam starts automatically
 
-**Search**  
-- Tap **Search** and type a continent, country, category, or webcam name  
-- Results appear in real time  
+**Windy Map**
+- Open the **Windy Map** section from the Home screen.
+- Explore the interactive map.
+- Find available webcams in different locations.
+- Select a webcam to view its information and access its corresponding view.
 
-**Language switch**  
-- **Settings** → choose a language → **Save**  
-- The UI changes instantly, no restart needed  
+**Favorites**
+- Tap **☆** to add a webcam to your favorites.
+- The star turns into **★** and the webcam appears in *Favorites*.
+- Tap **✖** to remove it.
+
+**Search**
+- Tap **Search** and type a continent, country, category, or webcam name.
+- Results appear in real time.
+
+**Language switch**
+- **Settings** → choose a language → **Save**.
+- The UI changes instantly, no restart needed.
 
 ### 🛠️ Tech stack
 
@@ -189,6 +207,7 @@ On startup you'll see the **Home** with a convenient grid layout: *Continents, C
 | Language | C# 13 |
 | UI | XAML |
 | HLS player | hls.js (via WebView) |
+| Interactive map | Windy |
 | Flags | flagcdn.com |
 | Webcam data | SkylineWebcams.com |
 
@@ -211,4 +230,5 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-*Ultimo aggiornamento / Last update: Novembre 2026*
+*Ultimo aggiornamento / Last update: Novembre 2026*  
+**Versione / Version: 1.3**
